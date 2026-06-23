@@ -2,7 +2,7 @@
 QA automation case study for a multi-tenant B2B SaaS platform
 # QA Automation Case Study: Project Creation Flow
  
-## Overview 
+## Overview  
 This repository contains an automated integration test validating the lifecycle of a project across API, Web UI, and Mobile interfaces. It creates data via API for speed, verifies it via UI for user accuracy, and checks security boundaries.
 
 ## Repository Contents
